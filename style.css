@@ -31,7 +31,7 @@ body {
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #6b5537;
+	--color-content-title-sub: gold;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #6b5537;
@@ -284,7 +284,7 @@ a:focus {
 
 .content__title-sub {
 	text-align: center;
-	/* color: var(--color-content-title-sub); */
+	color: var(--color-content-title-sub);
 	font-size: 4vw;
 	display: block;
 	margin-left: 3vw;
