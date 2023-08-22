@@ -284,7 +284,7 @@ a:focus {
 
 .content__title-sub {
 	text-align: center;
-	color: var(--color-content-title-sub);
+	/* color: var(--color-content-title-sub); */
 	font-size: 4vw;
 	display: block;
 	margin-left: 3vw;
